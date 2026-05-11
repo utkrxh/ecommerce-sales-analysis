@@ -58,14 +58,13 @@ SQLite database file
 - Dashboard Building
 - Business Insights
 
-
 ## Dashboard Screenshots
 
 ### Sales by Category
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](sales_by_category.png)
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](monthly_sales_trend.png)
 
 ### Profit by Region
-![Profit by Region](images/profit_by_region.png)
+![Profit by Region](profit_by_region.png)
